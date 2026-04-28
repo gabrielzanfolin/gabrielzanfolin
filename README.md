@@ -1,5 +1,5 @@
 # Hi 👋, I'm Gabriel Zanfolin
-### 🚀 Full Stack Developer | AI & Automation Enthusiast
+### 🚀 Full Stack Developer | AI & Automation
 
 I am a Science & Technology student and also studying Programming & Robotics at **TUMO Lisboa**. I am highly passionate about **Artificial Intelligence, Machine Learning**, and building automated solutions that solve real-world problems. I already have hands-on experience developing full-stack platforms for international events.
 
