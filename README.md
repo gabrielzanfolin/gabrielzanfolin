@@ -49,12 +49,5 @@ I am a Science & Technology student and also studying Programming & Robotics at 
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=gabrielzanfolin&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielzanfolin&layout=compact&theme=tokyonight" />
-</p>
-
 
 🤝 Open to collaborations, freelance projects, and constant learning!
